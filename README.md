@@ -3,4 +3,5 @@ This project attempts to identify nine different faults and the healthy conditio
 
 # Bearing Dataset
 The open-access dataset can be obtained at https://engineering.case.edu/bearingdatacenter.
-It includes vibrational time series of the bearing at four loading conditions, involving 9 different faults and one healthy condition. 
+It includes vibrational time series of the bearing at four loading conditions, involving 9 different faults and one healthy condition.
+A part of the dataset is located in the Dataset folder, on that basis the jupyter notebook code can be executed.
